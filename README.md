@@ -7,6 +7,6 @@ Ensured data integrity through the use of primary and foreign key constraints.
 Implemented normalization techniques to optimize database structure.
 Created sample data for testing and demonstration purposes .
 ## Technologies Used:
-SQL
-Database Design
-Data Modeling
+### SQL
+### Database Design
+### Data Modeling
